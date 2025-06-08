@@ -1,0 +1,12 @@
+[
+    "birth_day",
+    "birth_month",
+    "gender",
+    "gender_alternative",
+    "hobby_name",
+    "internal_id",
+    "internal_label",
+    "internal_name",
+    "species_name",
+    "version_added"
+]
