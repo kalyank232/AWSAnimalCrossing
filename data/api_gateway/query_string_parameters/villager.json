@@ -1,0 +1,21 @@
+[
+    "birth_day",
+    "birth_month",
+    "color_1",
+    "color_2",
+    "floor_name",
+    "gender",
+    "hobby_name",
+    "kitchen_id",
+    "kitchen_variant_id",
+    "personality_category",
+    "personality_name",
+    "song_name",
+    "species_name",
+    "style_1",
+    "style_2",
+    "version_added",
+    "wallpaper_name",
+    "workbench_id",
+    "workbench_variant_id"
+]
