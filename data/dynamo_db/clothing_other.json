@@ -1,0 +1,1317 @@
+[
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "collection_id": {
+                "N": "1260"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "TopsTexMarinesuitNormalNGreco3"
+            },
+            "filename_closet_image": {
+                "S": "TopsTexMarinesuitNormalNGreco3"
+            },
+            "filename_storage_image": {
+                "S": "TopsTexMarinesuitNormalNGreco3"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "51"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_closet_url": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco3.png"
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco3.png"
+            },
+            "internal_id": {
+                "N": "13103"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": false
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "label_themes": {
+                "SS": [
+                    "Outdoorsy",
+                    "Sporty",
+                    "Vacation"
+                ]
+            },
+            "name": {
+                "S": "Horizontal-striped Wet Suit"
+            },
+            "order": {
+                "N": "1"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "N"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "style_1": {
+                "S": "Active"
+            },
+            "style_2": {
+                "S": "Active"
+            },
+            "unique_entry_id": {
+                "S": "6L2xDvYdeFstLHY86"
+            },
+            "variant_name": {
+                "S": "Black"
+            },
+            "version_added": {
+                "S": "1.3.0"
+            }
+        },
+        "TableName": "clothing_other"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "collection_id": {
+                "N": "1260"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "TopsTexMarinesuitNormalNGreco0"
+            },
+            "filename_closet_image": {
+                "S": "TopsTexMarinesuitNormalNGreco0"
+            },
+            "filename_storage_image": {
+                "S": "TopsTexMarinesuitNormalNGreco0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "51"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_closet_url": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco0.png"
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco0.png"
+            },
+            "internal_id": {
+                "N": "12986"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": false
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "label_themes": {
+                "SS": [
+                    "Outdoorsy",
+                    "Sporty",
+                    "Vacation"
+                ]
+            },
+            "name": {
+                "S": "Horizontal-striped Wet Suit"
+            },
+            "order": {
+                "N": "2"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "N"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "style_1": {
+                "S": "Active"
+            },
+            "style_2": {
+                "S": "Active"
+            },
+            "unique_entry_id": {
+                "S": "3TDPbxuAzdDjSSHyA"
+            },
+            "variant_name": {
+                "S": "Red"
+            },
+            "version_added": {
+                "S": "1.3.0"
+            }
+        },
+        "TableName": "clothing_other"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "collection_id": {
+                "N": "1260"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "TopsTexMarinesuitNormalNGreco2"
+            },
+            "filename_closet_image": {
+                "S": "TopsTexMarinesuitNormalNGreco2"
+            },
+            "filename_storage_image": {
+                "S": "TopsTexMarinesuitNormalNGreco2"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "51"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_closet_url": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco2.png"
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco2.png"
+            },
+            "internal_id": {
+                "N": "13102"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": false
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "label_themes": {
+                "SS": [
+                    "Outdoorsy",
+                    "Sporty",
+                    "Vacation"
+                ]
+            },
+            "name": {
+                "S": "Horizontal-striped Wet Suit"
+            },
+            "order": {
+                "N": "3"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "N"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "style_1": {
+                "S": "Active"
+            },
+            "style_2": {
+                "S": "Active"
+            },
+            "unique_entry_id": {
+                "S": "ngqeKA7GqE55ezKww"
+            },
+            "variant_name": {
+                "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.3.0"
+            }
+        },
+        "TableName": "clothing_other"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "collection_id": {
+                "N": "1260"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "TopsTexMarinesuitNormalNGreco1"
+            },
+            "filename_closet_image": {
+                "S": "TopsTexMarinesuitNormalNGreco1"
+            },
+            "filename_storage_image": {
+                "S": "TopsTexMarinesuitNormalNGreco1"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "51"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_closet_url": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalNGreco1.png"
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalNGreco1.png"
+            },
+            "internal_id": {
+                "N": "13101"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": false
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "label_themes": {
+                "SS": [
+                    "Outdoorsy",
+                    "Sporty",
+                    "Vacation"
+                ]
+            },
+            "name": {
+                "S": "Horizontal-striped Wet Suit"
+            },
+            "order": {
+                "N": "4"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "N"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "style_1": {
+                "S": "Active"
+            },
+            "style_2": {
+                "S": "Active"
+            },
+            "unique_entry_id": {
+                "S": "hSJxcwRHv7qnKp93f"
+            },
+            "variant_name": {
+                "S": "Blue"
+            },
+            "version_added": {
+                "S": "1.3.0"
+            }
+        },
+        "TableName": "clothing_other"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "collection_id": {
+                "N": "1259"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Daily Selection"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "TopsTexMarinesuitNormalLRashguard2"
+            },
+            "filename_closet_image": {
+                "S": "TopsTexMarinesuitNormalLRashguard2"
+            },
+            "filename_storage_image": {
+                "S": "TopsTexMarinesuitNormalLRashguard2"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "51"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_closet_url": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard2.png"
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard2.png"
+            },
+            "internal_id": {
+                "N": "13099"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": false
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "label_themes": {
+                "SS": [
+                    "Outdoorsy",
+                    "Sporty",
+                    "Vacation"
+                ]
+            },
+            "name": {
+                "S": "Leaf-print Wet Suit"
+            },
+            "order": {
+                "N": "1"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "L"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "style_1": {
+                "S": "Active"
+            },
+            "style_2": {
+                "S": "Gorgeous"
+            },
+            "unique_entry_id": {
+                "S": "dzprxbw5CzvxNWHt7"
+            },
+            "variant_name": {
+                "S": "Yellow"
+            },
+            "version_added": {
+                "S": "1.3.0"
+            }
+        },
+        "TableName": "clothing_other"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "collection_id": {
+                "N": "1259"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Daily Selection"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "TopsTexMarinesuitNormalLRashguard3"
+            },
+            "filename_closet_image": {
+                "S": "TopsTexMarinesuitNormalLRashguard3"
+            },
+            "filename_storage_image": {
+                "S": "TopsTexMarinesuitNormalLRashguard3"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "51"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_closet_url": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard3.png"
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard3.png"
+            },
+            "internal_id": {
+                "N": "13100"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": false
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "label_themes": {
+                "SS": [
+                    "Outdoorsy",
+                    "Sporty",
+                    "Vacation"
+                ]
+            },
+            "name": {
+                "S": "Leaf-print Wet Suit"
+            },
+            "order": {
+                "N": "2"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "L"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "style_1": {
+                "S": "Active"
+            },
+            "style_2": {
+                "S": "Gorgeous"
+            },
+            "unique_entry_id": {
+                "S": "3qhdPQngftbrtWgHM"
+            },
+            "variant_name": {
+                "S": "Green"
+            },
+            "version_added": {
+                "S": "1.3.0"
+            }
+        },
+        "TableName": "clothing_other"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "collection_id": {
+                "N": "1259"
+            },
+            "color_1": {
+                "S": "Aqua"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Daily Selection"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "TopsTexMarinesuitNormalLRashguard0"
+            },
+            "filename_closet_image": {
+                "S": "TopsTexMarinesuitNormalLRashguard0"
+            },
+            "filename_storage_image": {
+                "S": "TopsTexMarinesuitNormalLRashguard0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "51"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_closet_url": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard0.png"
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard0.png"
+            },
+            "internal_id": {
+                "N": "12981"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": false
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "label_themes": {
+                "SS": [
+                    "Outdoorsy",
+                    "Sporty",
+                    "Vacation"
+                ]
+            },
+            "name": {
+                "S": "Leaf-print Wet Suit"
+            },
+            "order": {
+                "N": "3"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "L"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "style_1": {
+                "S": "Active"
+            },
+            "style_2": {
+                "S": "Gorgeous"
+            },
+            "unique_entry_id": {
+                "S": "mCuc5u3XpnyQqcR8G"
+            },
+            "variant_name": {
+                "S": "Light Blue"
+            },
+            "version_added": {
+                "S": "1.3.0"
+            }
+        },
+        "TableName": "clothing_other"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "3000"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "collection_id": {
+                "N": "1259"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Shopping Daily Selection"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "TopsTexMarinesuitNormalLRashguard1"
+            },
+            "filename_closet_image": {
+                "S": "TopsTexMarinesuitNormalLRashguard1"
+            },
+            "filename_storage_image": {
+                "S": "TopsTexMarinesuitNormalLRashguard1"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "51"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_closet_url": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLRashguard1.png"
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLRashguard1.png"
+            },
+            "internal_id": {
+                "N": "13098"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": false
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "label_themes": {
+                "SS": [
+                    "Outdoorsy",
+                    "Sporty",
+                    "Vacation"
+                ]
+            },
+            "name": {
+                "S": "Leaf-print Wet Suit"
+            },
+            "order": {
+                "N": "4"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "750"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "L"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "style_1": {
+                "S": "Active"
+            },
+            "style_2": {
+                "S": "Gorgeous"
+            },
+            "unique_entry_id": {
+                "S": "GZwvXzEMwCfhuNTHe"
+            },
+            "variant_name": {
+                "S": "Purple"
+            },
+            "version_added": {
+                "S": "1.3.0"
+            }
+        },
+        "TableName": "clothing_other"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "collection_id": {
+                "N": "1258"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Miles Redemption"
+                ]
+            },
+            "exchange_currency": {
+                "S": "Nook Miles"
+            },
+            "exchange_price": {
+                "N": "800"
+            },
+            "filename": {
+                "S": "TopsTexMarinesuitNormalLNook0"
+            },
+            "filename_closet_image": {
+                "S": "TopsTexMarinesuitNormalLNook0"
+            },
+            "filename_storage_image": {
+                "S": "TopsTexMarinesuitNormalLNook0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "151"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_closet_url": {
+                "S": "https://acnhcdn.com/latest/ClosetIcon/TopsTexMarinesuitNormalLNook0.png"
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/TopsTexMarinesuitNormalLNook0.png"
+            },
+            "internal_id": {
+                "N": "12970"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": false
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "label_themes": {
+                "SS": [
+                    "Outdoorsy",
+                    "Sporty",
+                    "Vacation",
+                    "Work"
+                ]
+            },
+            "name": {
+                "S": "Nook Inc. wet suit"
+            },
+            "order": {
+                "N": "1"
+            },
+            "seasonal_availability": {
+                "S": "All Year"
+            },
+            "seasonality": {
+                "S": "All Year"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "4000"
+            },
+            "shape_1": {
+                "S": "Marinesuit"
+            },
+            "shape_2": {
+                "S": "L"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "style_1": {
+                "S": "Active"
+            },
+            "style_2": {
+                "S": "Simple"
+            },
+            "unique_entry_id": {
+                "S": "jjwdLhmb3X42fvtHa"
+            },
+            "variant_name": {
+                "NULL": true
+            },
+            "version_added": {
+                "S": "1.3.0"
+            }
+        },
+        "TableName": "clothing_other"
+    }
+]
