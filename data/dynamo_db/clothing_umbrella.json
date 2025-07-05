@@ -1,0 +1,7432 @@
+[
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaApple0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaApple0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaApple0.png"
+            },
+            "internal_id": {
+                "N": "9948"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Apple Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "FPxdw28z9s2gYgjmr"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "840"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaBat0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaBat0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBat0.png"
+            },
+            "internal_id": {
+                "N": "6919"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Bat Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "210"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "EZnRx49foq3M36yQ4"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaBeach0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaBeach0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBeach0.png"
+            },
+            "internal_id": {
+                "N": "9957"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Beach Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "3SSFuv6LiH63jych3"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1570"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaBear0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaBear0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBear0.png"
+            },
+            "internal_id": {
+                "N": "7167"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Bear Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "392"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "s7KoPpysn27AeC5zi"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPacodarace5"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPacodarace5"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace5.png"
+            },
+            "internal_id": {
+                "N": "12137"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Black Chic Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "p8yg9xiFwPscNDJNg"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaRace0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaRace0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaRace0.png"
+            },
+            "internal_id": {
+                "N": "6915"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Black Lace Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "7vuSb5AutpNQA573q"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPolkadot2"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPolkadot2"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPolkadot2.png"
+            },
+            "internal_id": {
+                "N": "9956"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Blue Dot Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "SwKuBi2vT7K365A3p"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPacodarace2"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPacodarace2"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace2.png"
+            },
+            "internal_id": {
+                "N": "12134"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Blue Shiny-bows Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "BxZ4XdtfJEyWyBPFe"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaStandard2"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaStandard2"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaStandard2.png"
+            },
+            "internal_id": {
+                "N": "9959"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Blue Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "XyJaqSLnBjh5J6vLp"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1570"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaBroken0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaBroken0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBroken0.png"
+            },
+            "internal_id": {
+                "N": "7182"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Busted Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "392"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "gkHD9GKJT9eAekxWQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "650"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaOutdoor0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaOutdoor0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaOutdoor0.png"
+            },
+            "internal_id": {
+                "N": "6923"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Camo Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "162"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "RJYB5itM7mDdtWHpv"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaGingham0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaGingham0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGingham0.png"
+            },
+            "internal_id": {
+                "N": "6926"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Candy Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "F6KFg5Yhzgf78pudR"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaCherry0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaCherry0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaCherry0.png"
+            },
+            "internal_id": {
+                "N": "9949"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Cherry Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "YwHY3LQXsDeM2iosy"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "SS": [
+                    "cherry-blossom petals"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaCherryblossom0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaCherryblossom0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "201"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaCherryblossom0.png"
+            },
+            "internal_id": {
+                "N": "9945"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Cherry-blossom Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "2800"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "vTu5kLPipRb69vJA3"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Blue"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Dodo Airlines"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaDoc0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaDoc0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "251"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaDoc0.png"
+            },
+            "internal_id": {
+                "N": "9560"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "DAL umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1010"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "vTdEjywjFjr8AkePD"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPolkadot1"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPolkadot1"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPolkadot1.png"
+            },
+            "internal_id": {
+                "N": "9955"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Eggy Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "qf7Hn5CKMDMBpge9r"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1670"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaChina0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaChina0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaChina0.png"
+            },
+            "internal_id": {
+                "N": "7171"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Exquisite Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "417"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "tFFuizXunsrHcMbEj"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "820"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaFairytale0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaFairytale0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaFairytale0.png"
+            },
+            "internal_id": {
+                "N": "7175"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Fairy-tale Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "205"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "xKBGNFJd2qpWeDWjo"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "content_events": {
+                "SS": [
+                    "Fishing Tourney (Spring)",
+                    "Fishing Tourney (Summer)",
+                    "Fishing Tourney (Fall)",
+                    "Fishing Tourney (Winter)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "C.J."
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaFish0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaFish0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "501"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaFish0.png"
+            },
+            "internal_id": {
+                "N": "8768"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Fish Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "80"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "bvwaqJav8wmjPj2RC"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1570"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaFrog0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaFrog0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaFrog0.png"
+            },
+            "internal_id": {
+                "N": "6925"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Frog Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "392"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "nDBiFvLtf5KeStQNv"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Colorful"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaTricolor0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaTricolor0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaTricolor0.png"
+            },
+            "internal_id": {
+                "N": "7180"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Gelato Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "tupHZa6zDdFvobTEt"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1670"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaTeruteru0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaTeruteru0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaTeruteru0.png"
+            },
+            "internal_id": {
+                "N": "6924"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Ghost Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "417"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "83zEbSL3S3dty4YjN"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaGrape0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaGrape0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGrape0.png"
+            },
+            "internal_id": {
+                "N": "6911"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Grape Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "TJ9cw4XSj64u3uEsx"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPacodarace4"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPacodarace4"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace4.png"
+            },
+            "internal_id": {
+                "N": "12136"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Green Chic Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "u2YWae8oz23XcT4u9"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaStandard3"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaStandard3"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaStandard3.png"
+            },
+            "internal_id": {
+                "N": "9960"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Green Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "8Hf4oRy3cQdundDJK"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Aqua"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaHydrangea0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaHydrangea0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaHydrangea0.png"
+            },
+            "internal_id": {
+                "N": "6906"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Hydrangea Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "dmFbrs5ALCJG4KpzB"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1670"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaKabuki0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaKabuki0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaKabuki0.png"
+            },
+            "internal_id": {
+                "N": "7177"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Kabuki Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "417"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "QenZWqPCSZr9ZCrRh"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Brown"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaKiwi0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaKiwi0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaKiwi0.png"
+            },
+            "internal_id": {
+                "N": "6908"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Kiwi Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "R9WBMjgoqLwiR3h76"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaLace0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaLace0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaLace0.png"
+            },
+            "internal_id": {
+                "N": "9946"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Lacy Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "8ND7Jkfb2fxLJaR7n"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "SS": [
+                    "Bug-Off (1)",
+                    "Bug-Off (2)",
+                    "Bug-Off (3)",
+                    "Bug-Off (4)"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Flick"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaLadybug0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaLadybug0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "501"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaLadybug0.png"
+            },
+            "internal_id": {
+                "N": "8767"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Ladybug Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "80"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "rHNt3mx5hEEDRSRiD"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaLeaf0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaLeaf0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaLeaf0.png"
+            },
+            "internal_id": {
+                "N": "6840"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Leaf Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "300"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "ZpYcNAofgCtnPfLj5"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaGingham4"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaGingham4"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGingham4.png"
+            },
+            "internal_id": {
+                "N": "9954"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Lemon Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "yKb3LfnWDwptRPAWK"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "650"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Blue"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaLogo0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaLogo0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaLogo0.png"
+            },
+            "internal_id": {
+                "N": "7172"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Logo Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "162"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "sFtYCcv9wy78ujaZr"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Orange"
+            },
+            "color_2": {
+                "S": "Orange"
+            },
+            "content_events": {
+                "SS": [
+                    "maple leaves"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaAutumn0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaAutumn0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "201"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaAutumn0.png"
+            },
+            "internal_id": {
+                "N": "7169"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Maple-leaf Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "2800"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "b5gL4xdKJPZPjhYZM"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaGingham1"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaGingham1"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGingham1.png"
+            },
+            "internal_id": {
+                "N": "9951"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Melon Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "oFFjNfN2G5BxasAem"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaFlorets0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaFlorets0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaFlorets0.png"
+            },
+            "internal_id": {
+                "N": "6914"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Mini-flower-print Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "G9dRhHQxBzYJB5mmE"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaGingham2"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaGingham2"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGingham2.png"
+            },
+            "internal_id": {
+                "N": "9952"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Mint Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "F6fPRcpqGqhQ5oq7F"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Beige"
+            },
+            "content_events": {
+                "SS": [
+                    "mushrooms"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaMushroom0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaMushroom0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaMushroom0.png"
+            },
+            "internal_id": {
+                "N": "7174"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Mush Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1200"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "LLSQNPiMBWXXdTYFo"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Green"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook Miles Redemption"
+                ]
+            },
+            "exchange_currency": {
+                "S": "Nook Miles"
+            },
+            "exchange_price": {
+                "N": "700"
+            },
+            "filename": {
+                "S": "UmbrellaRco0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaRco0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "151"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaRco0.png"
+            },
+            "internal_id": {
+                "N": "9561"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Nook Inc. umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "3500"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "GX9s8tDymkHYHztY3"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Orange"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaOrange0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaOrange0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaOrange0.png"
+            },
+            "internal_id": {
+                "N": "6912"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Orange Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "ovb5ZxHTXJtBWQQxF"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1570"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPanda0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPanda0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPanda0.png"
+            },
+            "internal_id": {
+                "N": "7170"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Panda Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "392"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "AJkrWywbkBfFpke5b"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "870"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Brown"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaBangasa0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaBangasa0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBangasa0.png"
+            },
+            "internal_id": {
+                "N": "7178"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Paper Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "217"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "Brvfu2wmEsgfpsfe6"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Wardell"
+                ]
+            },
+            "exchange_currency": {
+                "S": "Poki"
+            },
+            "exchange_price": {
+                "N": "1800"
+            },
+            "filename": {
+                "S": "UmbrellaTakumi0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaTakumi0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "151"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaTakumi0.png"
+            },
+            "internal_id": {
+                "N": "14464"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Paradise Planning umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "500"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "RGq2nBQy9M3REEbrt"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaBoundary0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaBoundary0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaBoundary0.png"
+            },
+            "internal_id": {
+                "N": "6918"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Patterned Vinyl Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "KzFYhiwG4WmgGuewi"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPeach0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPeach0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPeach0.png"
+            },
+            "internal_id": {
+                "N": "9947"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Peach Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "e7KPGj99m2g9dvYfe"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "NULL": true
+            },
+            "buy_price": {
+                "NULL": true
+            },
+            "catalog_category": {
+                "S": "Not for sale"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Crafting"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPear0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPear0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "103"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPear0.png"
+            },
+            "internal_id": {
+                "N": "9950"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": true
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Pear Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "1400"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "2kKFs5wG5ioHGbGda"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1590"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaMargaret0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaMargaret0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaMargaret0.png"
+            },
+            "internal_id": {
+                "N": "7181"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Petal Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "397"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "5qqATjxvMpMHmcDns"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaGingham3"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaGingham3"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaGingham3.png"
+            },
+            "internal_id": {
+                "N": "9953"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Picnic Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "hvv9Bz2ey3iRvSnAL"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPineapple0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPineapple0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPineapple0.png"
+            },
+            "internal_id": {
+                "N": "6910"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Pineapple Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "ohMyh5kSBGg8Zayyh"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPacodarace0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPacodarace0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace0.png"
+            },
+            "internal_id": {
+                "N": "7176"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Pink Shiny-bows Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "PTvmPPNiXMZ4jhBKX"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "Pink"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaSchool0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaSchool0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaSchool0.png"
+            },
+            "internal_id": {
+                "N": "7164"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Pink Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "Cg8DXnxz3AtYJvdPE"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPacoda0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPacoda0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacoda0.png"
+            },
+            "internal_id": {
+                "N": "7183"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Purple Chic Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "2dXt6F6XwMf346Zbv"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Purple"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPacodarace1"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPacodarace1"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace1.png"
+            },
+            "internal_id": {
+                "N": "12133"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Purple Shiny-bows Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "J6FrqXxBPqGNBs4sC"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "840"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Colorful"
+            },
+            "color_2": {
+                "S": "Colorful"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaRainbow0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaRainbow0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaRainbow0.png"
+            },
+            "internal_id": {
+                "N": "7179"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Rainbow Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "210"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "P9bMZJY3n2dtooq5X"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaRain0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaRain0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaRain0.png"
+            },
+            "internal_id": {
+                "N": "6913"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Raindrop Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "Djdj6KiSLh82BHzqB"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Black"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPacodarace6"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPacodarace6"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace6.png"
+            },
+            "internal_id": {
+                "N": "12138"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Red Chic Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "kKoJtAcxMDNKq7tNu"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Red"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaStandard1"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaStandard1"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaStandard1.png"
+            },
+            "internal_id": {
+                "N": "9958"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Red Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "Z9yCA3wawXdQsbLSs"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Aqua"
+            },
+            "color_2": {
+                "S": "Aqua"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaCrystal0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaCrystal0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaCrystal0.png"
+            },
+            "internal_id": {
+                "N": "6905"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Snowflake Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "r5RwHucDKWJPg7dkv"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "840"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Black"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaSpider0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaSpider0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaSpider0.png"
+            },
+            "internal_id": {
+                "N": "7173"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Spider Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "210"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "aaQhimbednGniK4NF"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Pink"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaStrawberry0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaStrawberry0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaStrawberry0.png"
+            },
+            "internal_id": {
+                "N": "6907"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Strawberry Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "kKQHooYToACDqoqBm"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Gray"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaStripe0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaStripe0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaStripe0.png"
+            },
+            "internal_id": {
+                "N": "6916"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Striped Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "hF2THDnHbEJWTDT8L"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Yellow"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaSunflower0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaSunflower0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaSunflower0.png"
+            },
+            "internal_id": {
+                "N": "6904"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Sunny Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "thr45xserbQqAm6o4"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPlaid0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPlaid0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPlaid0.png"
+            },
+            "internal_id": {
+                "N": "6917"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Tartan-check Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "HjZzRQKbMdXBKYawe"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "750"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPolkadotRed"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPolkadotRed"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPolkadotRed.png"
+            },
+            "internal_id": {
+                "N": "5861"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Toad parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "187"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "HnmPeaovKNwg7ZuBL"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Yellow"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaTwocolor0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaTwocolor0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaTwocolor0.png"
+            },
+            "internal_id": {
+                "N": "7166"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Two-tone Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "Da4xWXq9D2RFLnyYj"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "770"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaVinyl0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaVinyl0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaVinyl0.png"
+            },
+            "internal_id": {
+                "N": "7165"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Vinyl Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "192"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "q4Eo8vxPLFCL4ppac"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1550"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "Red"
+            },
+            "color_2": {
+                "S": "Green"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaWater0"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaWater0"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaWater0.png"
+            },
+            "internal_id": {
+                "N": "6909"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Watermelon Umbrella"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "387"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "JTchAPvto4vHBJANw"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    },
+    {
+        "Item": {
+            "buy_currency": {
+                "S": "Bells"
+            },
+            "buy_price": {
+                "N": "1620"
+            },
+            "catalog_category": {
+                "S": "For sale"
+            },
+            "color_1": {
+                "S": "White"
+            },
+            "color_2": {
+                "S": "White"
+            },
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Nook's Cranny"
+                ]
+            },
+            "exchange_currency": {
+                "NULL": true
+            },
+            "exchange_price": {
+                "NULL": true
+            },
+            "filename": {
+                "S": "UmbrellaPacodarace3"
+            },
+            "filename_storage_image": {
+                "S": "UmbrellaPacodarace3"
+            },
+            "gender": {
+                "S": "Free"
+            },
+            "hha_category": {
+                "NULL": true
+            },
+            "hha_concept_1": {
+                "NULL": true
+            },
+            "hha_concept_2": {
+                "NULL": true
+            },
+            "hha_points": {
+                "N": "3"
+            },
+            "hha_series": {
+                "NULL": true
+            },
+            "hha_set": {
+                "NULL": true
+            },
+            "image_storage_url": {
+                "S": "https://acnhcdn.com/latest/FtrIcon/UmbrellaPacodarace3.png"
+            },
+            "internal_id": {
+                "N": "12135"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_craftable": {
+                "BOOL": false
+            },
+            "is_equippable": {
+                "BOOL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "is_unlocked": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "White Shiny-bows Parasol"
+            },
+            "sell_currency": {
+                "S": "Bells"
+            },
+            "sell_price": {
+                "N": "405"
+            },
+            "size_1": {
+                "N": "1.0"
+            },
+            "size_2": {
+                "N": "1.0"
+            },
+            "unique_entry_id": {
+                "S": "4btSNLBHRoocAXfgE"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            },
+            "villager_gender": {
+                "S": "Free"
+            }
+        },
+        "TableName": "clothing_umbrella"
+    }
+]
