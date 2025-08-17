@@ -1,0 +1,4098 @@
+[
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Spring"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Spring"
+            },
+            "unique_entry_id": {
+                "S": "mj2WQCXRGMhuaNERE"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Spring"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Spring (shopping)"
+            },
+            "unique_entry_id": {
+                "S": "cgstqsmrRFsG3HRHm"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Summer"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Summer"
+            },
+            "unique_entry_id": {
+                "S": "3gSN9JumwvvXLZBwM"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Summer"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Summer (shopping)"
+            },
+            "unique_entry_id": {
+                "S": "gdqi5z5jot9H4fsz9"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Fall"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fall"
+            },
+            "unique_entry_id": {
+                "S": "9c9WdPSCZJdcgKZBq"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Fall"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fall (shopping)"
+            },
+            "unique_entry_id": {
+                "S": "pmM4yBFvMXTXcooL5"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Winter"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Winter"
+            },
+            "unique_entry_id": {
+                "S": "h2Hd4jMQFGFWvH5yP"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Winter"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Winter (shopping)"
+            },
+            "unique_entry_id": {
+                "S": "h5W3JH8kDC4xJHgva"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "young spring bamboo"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Young Spring Bamboo"
+            },
+            "unique_entry_id": {
+                "S": "B4yFhfZgohc6mpGye"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "cherry-blossom petals"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Cherry-blossom Petals"
+            },
+            "unique_entry_id": {
+                "S": "Xo3c8z7JTrEth4NW7"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "summer shells"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Summer Shells"
+            },
+            "unique_entry_id": {
+                "S": "sjovDaZqkh4jafozk"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "acorns and pine cones"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Acorns And Pine Cones"
+            },
+            "unique_entry_id": {
+                "S": "Rj8eWkGTM5STPvprt"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "mushrooms"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Mushrooms"
+            },
+            "unique_entry_id": {
+                "S": "hAE9QzEyaKskMpTfw"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "maple leaves"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Maple Leaves"
+            },
+            "unique_entry_id": {
+                "S": "2pHZfthLCYjYxEGXJ"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "snowflakes"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Snowflakes"
+            },
+            "unique_entry_id": {
+                "S": "owiAqbhvj8Ej62yer"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "ornaments"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Ornaments"
+            },
+            "unique_entry_id": {
+                "S": "hMjjfnZoboSEfX6kN"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "camellia"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Camellia"
+            },
+            "unique_entry_id": {
+                "S": "cp22AuXoQtvEn7KbF"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "azalea"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Azalea"
+            },
+            "unique_entry_id": {
+                "S": "7uaTrBAXzJSaEbv9P"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "hydrangea"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Hydrangea"
+            },
+            "unique_entry_id": {
+                "S": "vv43fAxedRXLBQzHB"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "plumeria"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Plumeria"
+            },
+            "unique_entry_id": {
+                "S": "sPo9igLgwWxAdXJRx"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "hibiscus"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Hibiscus"
+            },
+            "unique_entry_id": {
+                "S": "H6hLemK7FnKixKXzD"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "tea olive"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Tea Olive"
+            },
+            "unique_entry_id": {
+                "S": "W983nSAaEJEsQTw9p"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "holly"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Holly"
+            },
+            "unique_entry_id": {
+                "S": "njvQ6W4WxuZkNhGtF"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Pisces"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Pisces"
+            },
+            "unique_entry_id": {
+                "S": "t3oLZbrWRDCqGFWff"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Aries"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Aries"
+            },
+            "unique_entry_id": {
+                "S": "x8ieT7oBnYmXxDq7A"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Taurus"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Taurus"
+            },
+            "unique_entry_id": {
+                "S": "zhNANPmM76brtTv8z"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Gemini"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Gemini"
+            },
+            "unique_entry_id": {
+                "S": "vKNjJizgqpQfBgf5y"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Cancer"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Cancer"
+            },
+            "unique_entry_id": {
+                "S": "d7jo5yXDsHr7ZPSn7"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Leo"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Leo"
+            },
+            "unique_entry_id": {
+                "S": "TKcZ9NSsgrFpDgsa8"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Virgo"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Virgo"
+            },
+            "unique_entry_id": {
+                "S": "s5pDRHdgiSvDQqHdL"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Libra"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Libra"
+            },
+            "unique_entry_id": {
+                "S": "9XGhdA9uRd8wpFcnF"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Scorpio"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Scorpio"
+            },
+            "unique_entry_id": {
+                "S": "596kyafmfDmHdW7ce"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Sagittarius"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Sagittarius"
+            },
+            "unique_entry_id": {
+                "S": "bTaE6agqsduPGZ9h3"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Capricorn"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Capricorn"
+            },
+            "unique_entry_id": {
+                "S": "Hg5dLT2EZYv4AqRHS"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Aquarius"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Aquarius"
+            },
+            "unique_entry_id": {
+                "S": "qhhHqPBRzJ7qLsocW"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Birthday"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "PlayerBirthday"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Birthday"
+            },
+            "unique_entry_id": {
+                "S": "8gF25cNHcBJxveb5A"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Fishing Tourney"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "FishingConventionSpring"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fishing Tourney (Spring)"
+            },
+            "unique_entry_id": {
+                "S": "FGE5KSaw2fEX9M7Er"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Fishing Tourney"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "FishingConventionSummer"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fishing Tourney (Summer)"
+            },
+            "unique_entry_id": {
+                "S": "jfzXwMmKCGnb4cqcJ"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Fishing Tourney"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "FishingConventionAutumn"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fishing Tourney (Fall)"
+            },
+            "unique_entry_id": {
+                "S": "rqXb5bdvG9ES2DHSs"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Fishing Tourney"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "FishingConventionWinter"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fishing Tourney (Winter)"
+            },
+            "unique_entry_id": {
+                "S": "CbtNEeyHf4gohjx3G"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Bug-Off"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "InsectConvention1"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Bug-Off (1)"
+            },
+            "unique_entry_id": {
+                "S": "ARcnvRvmH6ug2JBXi"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Bug-Off"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "InsectConvention2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Bug-Off (2)"
+            },
+            "unique_entry_id": {
+                "S": "ydqSfNH8xzEBTsFyN"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Bug-Off"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "InsectConvention3"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Bug-Off (3)"
+            },
+            "unique_entry_id": {
+                "S": "6MhLGpMakesD7B4kB"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Bug-Off"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "InsectConvention4"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Bug-Off (4)"
+            },
+            "unique_entry_id": {
+                "S": "zAAgH7eNTW8cCyLD2"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Countdown"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Countdown"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Countdown"
+            },
+            "unique_entry_id": {
+                "S": "ofQGGtcwwK7dm9tpW"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day"
+            },
+            "unique_entry_id": {
+                "S": "ch6c4KYSFvhaS7uw7"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Lunar New Year"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "LunarNewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Lunar New Year"
+            },
+            "unique_entry_id": {
+                "S": "Qfjg2AyfyaHs8gMni"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Bunny Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Easter"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Bunny Day (days before)"
+            },
+            "unique_entry_id": {
+                "S": "4ku2HWxsXtYsHZPnA"
+            },
+            "version_added": {
+                "S": "1.1.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Bunny Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Easter"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Bunny Day"
+            },
+            "unique_entry_id": {
+                "S": "mN6SNYaRhEqushr8n"
+            },
+            "version_added": {
+                "S": "1.1.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "May Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "MayDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "May Day"
+            },
+            "unique_entry_id": {
+                "S": "cRAsXSu4L5HHoScER"
+            },
+            "version_added": {
+                "S": "1.2.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "International Museum Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "InternationalMuseum"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "International Museum Day"
+            },
+            "unique_entry_id": {
+                "S": "Dk8YdEvdKBNihCDFM"
+            },
+            "version_added": {
+                "S": "1.2.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Wedding Season"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "JuneBride"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Wedding Season"
+            },
+            "unique_entry_id": {
+                "S": "67TSSQDefBj5N8gp8"
+            },
+            "version_added": {
+                "S": "1.2.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Fireworks Show"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Fireworks1"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fireworks Show (1)"
+            },
+            "unique_entry_id": {
+                "S": "h6b7G8S5L36zMPLFg"
+            },
+            "version_added": {
+                "S": "1.4.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Fireworks Show"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Fireworks2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fireworks Show (2)"
+            },
+            "unique_entry_id": {
+                "S": "ErGCcXzFdoz2eR76F"
+            },
+            "version_added": {
+                "S": "1.4.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Fireworks Show"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Fireworks3"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fireworks Show (3)"
+            },
+            "unique_entry_id": {
+                "S": "8MQggqM3PscafBPZG"
+            },
+            "version_added": {
+                "S": "1.4.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Fireworks Show"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Fireworks4"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fireworks Show (4)"
+            },
+            "unique_entry_id": {
+                "S": "fDY7aQYWXEPLiqmre"
+            },
+            "version_added": {
+                "S": "1.4.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Fireworks Show"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Fireworks5"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Fireworks Show (5)"
+            },
+            "unique_entry_id": {
+                "S": "5q8inahMAJHvuxw3x"
+            },
+            "version_added": {
+                "S": "1.4.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Halloween"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Halloween"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Halloween (days before)"
+            },
+            "unique_entry_id": {
+                "S": "CkhTdh8xBcjRPmCCM"
+            },
+            "version_added": {
+                "S": "1.5.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Halloween"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Halloween"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Halloween"
+            },
+            "unique_entry_id": {
+                "S": "ZYoPaw7SennvjdMqj"
+            },
+            "version_added": {
+                "S": "1.5.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": false
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Turkey Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "HarvestFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Turkey Day"
+            },
+            "unique_entry_id": {
+                "S": "n3cSGsDLnJJqLC76K"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Turkey Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "HarvestAfterTerm"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Turkey Day (days after)"
+            },
+            "unique_entry_id": {
+                "S": "LWQHvmgWcWpx6EBfn"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Nook Friday"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "BlackFriday"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Nook Friday"
+            },
+            "unique_entry_id": {
+                "S": "dHGH2naRLRkyjpBAE"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Toy Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "XmasReady1"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Toy Day (weeks before)"
+            },
+            "unique_entry_id": {
+                "S": "WwqGv6zGXSbpdW7B2"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Toy Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "XmasReady2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Toy Day (days before)"
+            },
+            "unique_entry_id": {
+                "S": "4b2C4HeZzZhtbjYo3"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Toy Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "XmasEve"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Toy Day"
+            },
+            "unique_entry_id": {
+                "S": "8BTw75h6CYtPousz7"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Toy Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "XmasAfter"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Toy Day (day after)"
+            },
+            "unique_entry_id": {
+                "S": "WRJS7x258JZXcBhiD"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Festivale"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Carnival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Festivale (days before)"
+            },
+            "unique_entry_id": {
+                "S": "F7bzc2pLevmboA8DF"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Festivale"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Carnival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Festivale"
+            },
+            "unique_entry_id": {
+                "S": "FvssW626ddQ3aLQFd"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Valentine's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Valentine"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Valentine's Day"
+            },
+            "unique_entry_id": {
+                "S": "wFQawZsWKLnDfSjjN"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "April Fools' Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionAprilFool"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "April Fools' Day"
+            },
+            "unique_entry_id": {
+                "S": "PQbKAS4Jt7mWpBBxx"
+            },
+            "version_added": {
+                "S": "1.9.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Singmogil"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionTreeDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Singmogil"
+            },
+            "unique_entry_id": {
+                "S": "33Y77jAzMCTuwH2Dq"
+            },
+            "version_added": {
+                "S": "1.9.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Prom"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionProm; RegionProm2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Prom"
+            },
+            "unique_entry_id": {
+                "S": "GEpYcBtjkvLTEahT4"
+            },
+            "version_added": {
+                "S": "1.9.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Nature Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionEarthDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Nature Day"
+            },
+            "unique_entry_id": {
+                "S": "SwxjFbKbQzaP5t4xC"
+            },
+            "version_added": {
+                "S": "1.2.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Children's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionChildrensDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Children's Day"
+            },
+            "unique_entry_id": {
+                "S": "SjMjhNmGeivSwt2pp"
+            },
+            "version_added": {
+                "S": "1.10.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Mother's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "MothersDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Mother's Day"
+            },
+            "unique_entry_id": {
+                "S": "Hs623rDkgMAhnsjhy"
+            },
+            "version_added": {
+                "S": "1.2.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Cheese Rolling"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionCheeseFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Cheese Rolling"
+            },
+            "unique_entry_id": {
+                "S": "AYctvhKBkndmfmZ2p"
+            },
+            "version_added": {
+                "S": "1.10.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Dano Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionDragonBoatFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Dano Festival"
+            },
+            "unique_entry_id": {
+                "S": "8EqYBr8EYEuHfB32B"
+            },
+            "version_added": {
+                "S": "1.10.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Dragon Boat Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionDragonBoatFestivalCh"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Dragon Boat Festival"
+            },
+            "unique_entry_id": {
+                "S": "HjsPpcPLeu3w5Puce"
+            },
+            "version_added": {
+                "S": "1.10.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "International Children's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "WorldChild"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "International Children's Day"
+            },
+            "unique_entry_id": {
+                "S": "PSzeGZ8iagsS3juM8"
+            },
+            "version_added": {
+                "S": "1.2.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Wedding Season"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionJuneBride; RegionJuneBride2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Wedding Season (Nook Shopping)"
+            },
+            "unique_entry_id": {
+                "S": "wDzvBE2Q4yJmT7qDY"
+            },
+            "version_added": {
+                "S": "1.10.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Father's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "FathersDay; FathersDay2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Father's Day"
+            },
+            "unique_entry_id": {
+                "S": "DGpj63PS3qXFbSYBK"
+            },
+            "version_added": {
+                "S": "1.2.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Summer Solstice"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "SummerSolstice; SouthernMidwinter; SummerSolsticeEU; WinterSolsticeEU"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Summer Solstice"
+            },
+            "unique_entry_id": {
+                "S": "vQbgAS6zTFgMZ2Ci4"
+            },
+            "version_added": {
+                "S": "1.2.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Tanabata"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Tanabata"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Tanabata"
+            },
+            "unique_entry_id": {
+                "S": "DRHv3aXj2usrWdsHQ"
+            },
+            "version_added": {
+                "S": "1.3.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Marine Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionMarineDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Marine Day"
+            },
+            "unique_entry_id": {
+                "S": "pjck9cqk9GGFpZMn2"
+            },
+            "version_added": {
+                "S": "1.10.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Le 14 juillet"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionParisFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Le 14 juillet"
+            },
+            "unique_entry_id": {
+                "S": "4wBGnBDm6JWBgjszG"
+            },
+            "version_added": {
+                "S": "1.10.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Cowboy Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "CowBoyFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Cowboy Festival"
+            },
+            "unique_entry_id": {
+                "S": "DRqqw3iMu6sranZ5Y"
+            },
+            "version_added": {
+                "S": "1.4.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Cowherd & Weaver Girl Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "GyurouSyokujyo"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Cowherd & Weaver Girl Day"
+            },
+            "unique_entry_id": {
+                "S": "RpMgTwZcCL82njXnh"
+            },
+            "version_added": {
+                "S": "1.4.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Obon"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionObon"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Obon"
+            },
+            "unique_entry_id": {
+                "S": "rAoT6F3hWekzpQdjA"
+            },
+            "version_added": {
+                "S": "1.11.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Tomato Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Tomatina"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Tomato Festival"
+            },
+            "unique_entry_id": {
+                "S": "72B73q5g6r4TRXRwu"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Moon-Viewing Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "MidAutumnFestival; RegionTsukimiJp; RegionTsukimiCh"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Moon-Viewing Day"
+            },
+            "unique_entry_id": {
+                "S": "cs2qcLkD4RFZpJRDY"
+            },
+            "version_added": {
+                "S": "1.4.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Chuseok"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionShuseki"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Chuseok"
+            },
+            "unique_entry_id": {
+                "S": "iB5QCG2QuFaNbqDvW"
+            },
+            "version_added": {
+                "S": "1.11.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Grape Harvest Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "GrapeHarvestFestival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Grape Harvest Festival"
+            },
+            "unique_entry_id": {
+                "S": "e6vjhAiYsg9Jzua5t"
+            },
+            "version_added": {
+                "S": "1.4.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Day of the Dead"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "DayOfTheDead"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Day of the Dead"
+            },
+            "unique_entry_id": {
+                "S": "6vXPuWuAZkoYCiDXW"
+            },
+            "version_added": {
+                "S": "1.11.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Lantern Festival"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "StMartinDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Lantern Festival"
+            },
+            "unique_entry_id": {
+                "S": "K3hGnvCe4nBbG8p2P"
+            },
+            "version_added": {
+                "S": "1.11.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Shichi-Go-San"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Shichigosan"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Shichi-Go-San"
+            },
+            "unique_entry_id": {
+                "S": "wQ8RQLDSztz2tuWFy"
+            },
+            "version_added": {
+                "S": "1.11.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Winter Solstice"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "WinterSolstice; Midwinter; SummerSolsticeTW; SummerSolsticeJP; WinterSolsticeTW; WinterSolsticeJP"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Winter Solstice"
+            },
+            "unique_entry_id": {
+                "S": "WTek3FANZJsBDDQrf"
+            },
+            "version_added": {
+                "S": "1.2.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "New Year's Eve"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearsEveWorld; RoshiaNewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Eve"
+            },
+            "unique_entry_id": {
+                "S": "cBXYqjysyynrFu7fw"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "\u014cmisoka"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Oomisoka"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "\u014cmisoka"
+            },
+            "unique_entry_id": {
+                "S": "8rWzJhnPupkFxeeE5"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Silvester"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearsEveGermany"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Silvester"
+            },
+            "unique_entry_id": {
+                "S": "pg7Wus3cgYWtn4wAg"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Nochevieja"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearsEveSpain"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Nochevieja"
+            },
+            "unique_entry_id": {
+                "S": "QgqtGLo5zitZsvcPE"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "KoreaNewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Nook Shopping)"
+            },
+            "unique_entry_id": {
+                "S": "9sayQ8ZTXonPimMf2"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "WorldNewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (2021)"
+            },
+            "unique_entry_id": {
+                "S": "s9EY4eT28FvMq4MmR"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "WorldNewYear2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (2022)"
+            },
+            "unique_entry_id": {
+                "S": "FBnwCSXu9RdX9iF7c"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "ChinaNewYear"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Ox)"
+            },
+            "unique_entry_id": {
+                "S": "PnPBujYf6ztitFX7F"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoTiger"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Tiger)"
+            },
+            "unique_entry_id": {
+                "S": "Ez6gGyL4iw49Zx89h"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoRabbit"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Rabbit)"
+            },
+            "unique_entry_id": {
+                "S": "mkDetGRZgSZkz2Q24"
+            },
+            "version_added": {
+                "S": "2.0.4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoDragon"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Dragon)"
+            },
+            "unique_entry_id": {
+                "S": "RBYwAt8wd7WEYGAhF"
+            },
+            "version_added": {
+                "S": "2.0.4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoSnake"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Snake)"
+            },
+            "unique_entry_id": {
+                "S": "Cd3ZgLs8JknQKm4bs"
+            },
+            "version_added": {
+                "S": "2.0.4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoHorse"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Horse)"
+            },
+            "unique_entry_id": {
+                "S": "xCJT6E3kNruNwHJkY"
+            },
+            "version_added": {
+                "S": "2.0.4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoSheep"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Sheep)"
+            },
+            "unique_entry_id": {
+                "S": "B7z67nC57ud9Ph2GC"
+            },
+            "version_added": {
+                "S": "2.0.4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoMonkey"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Monkey)"
+            },
+            "unique_entry_id": {
+                "S": "LXQQRQrSSgGZgLLMA"
+            },
+            "version_added": {
+                "S": "2.0.4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoRooster"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Rooster)"
+            },
+            "unique_entry_id": {
+                "S": "az59rLEBMHdGKn3TS"
+            },
+            "version_added": {
+                "S": "2.0.4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoDog"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Dog)"
+            },
+            "unique_entry_id": {
+                "S": "tjvp9tceES6XkBWmz"
+            },
+            "version_added": {
+                "S": "2.0.4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoBoarPig"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Pig)"
+            },
+            "unique_entry_id": {
+                "S": "F9e596epG9WTRt5g9"
+            },
+            "version_added": {
+                "S": "2.0.4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "New Year's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "NewYearEtoRat"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "New Year's Day (Year of the Rat)"
+            },
+            "unique_entry_id": {
+                "S": "kZGm3kaWBHewNqrv4"
+            },
+            "version_added": {
+                "S": "2.0.4"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Sh\u014dgatsu"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionNewYear; RegionNewYear2; RegionNewYear3; NewYearDay4_Osechi"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Sh\u014dgatsu"
+            },
+            "unique_entry_id": {
+                "S": "LwmgQ2WpBrBhJDDcZ"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Nanakusa Gayu"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Nanakusagayu"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Nanakusa Gayu"
+            },
+            "unique_entry_id": {
+                "S": "fuJPRDHEAgts4DSvY"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Carnival of Venice"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "VeniceCarnival"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Carnival of Venice"
+            },
+            "unique_entry_id": {
+                "S": "5HjtdvhCoBqkxCDoe"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Big Game Celebration"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionBigGame; RegionBigGame2"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Big Game Celebration"
+            },
+            "unique_entry_id": {
+                "S": "cxbGFKdkmqFsskvuj"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Lunar New Year"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionLunarNewYearAsia"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Lunar New Year (Nook Shopping)"
+            },
+            "unique_entry_id": {
+                "S": "GrhL6oc4Fikexi9mE"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": true
+            },
+            "category": {
+                "S": "Seollal"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionLunarNewYearKR"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Seollal"
+            },
+            "unique_entry_id": {
+                "S": "i36Hq5eemLtYtg8x4"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Groundhog Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "GroundhogDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Groundhog Day"
+            },
+            "unique_entry_id": {
+                "S": "y9Bn4GYZPnMEoBgfB"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Setsubun"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "Setsubun"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Setsubun"
+            },
+            "unique_entry_id": {
+                "S": "JanWTpqgkvHZzetxk"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Setsubun"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Setsubun (Able Sisters)"
+            },
+            "unique_entry_id": {
+                "S": "kFoAs7RfGYzw62LLt"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Valentine's Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionValentine"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Valentine's Day (Nook Shopping)"
+            },
+            "unique_entry_id": {
+                "S": "scq9e4MNaxBDnzdsf"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Hinamatsuri"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionHinamatsuri"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Hinamatsuri"
+            },
+            "unique_entry_id": {
+                "S": "nca8hecauJyrMuTe6"
+            },
+            "version_added": {
+                "S": "1.8.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "\u03c0 Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionPiDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "\u03c0 Day"
+            },
+            "unique_entry_id": {
+                "S": "atSCGTvcdHq2EKNfy"
+            },
+            "version_added": {
+                "S": "1.8.0"
+            }
+        },
+        "TableName": "occasion"
+    },
+    {
+        "Item": {
+            "can_overlap_day": {
+                "BOOL": true
+            },
+            "can_vary_yearly": {
+                "BOOL": false
+            },
+            "category": {
+                "S": "Shamrock Day"
+            },
+            "internal_id": {
+                "NULL": true
+            },
+            "internal_label": {
+                "S": "RegionShamrockDay"
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "name": {
+                "S": "Shamrock Day"
+            },
+            "unique_entry_id": {
+                "S": "zZcYX6kijYEszM3u8"
+            },
+            "version_added": {
+                "S": "1.8.0"
+            }
+        },
+        "TableName": "occasion"
+    }
+]
