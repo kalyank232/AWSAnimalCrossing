@@ -1,0 +1,3560 @@
+[
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "All villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Greeting"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Greeting.png"
+            },
+            "internal_id": {
+                "N": "50"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Greetings"
+            },
+            "unique_entry_id": {
+                "S": "oE6uqhZYjYfuqb55n"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Cranky villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Nodding"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Nodding.png"
+            },
+            "internal_id": {
+                "N": "39"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Agreement"
+            },
+            "unique_entry_id": {
+                "S": "7smqwK9J7eFBxta28"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Big Sister villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Negative"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Negative.png"
+            },
+            "internal_id": {
+                "N": "58"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Disagreement"
+            },
+            "unique_entry_id": {
+                "S": "Bw5YBM6iuWgMzutWq"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Normal villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Hello"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Hello.png"
+            },
+            "internal_id": {
+                "N": "120"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Pleased"
+            },
+            "unique_entry_id": {
+                "S": "Z3MuKfQMaH3D8vkPA"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Peppy villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Smiling"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Smiling.png"
+            },
+            "internal_id": {
+                "N": "19"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Happiness"
+            },
+            "unique_entry_id": {
+                "S": "TWENXBbBENgnFiGq3"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "All villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "HappyFlower"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/HappyFlower.png"
+            },
+            "internal_id": {
+                "N": "21"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Joy"
+            },
+            "unique_entry_id": {
+                "S": "fSNyHJHgLKac5mSLT"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Normal villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "HappyDance"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/HappyDance.png"
+            },
+            "internal_id": {
+                "N": "23"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Glee"
+            },
+            "unique_entry_id": {
+                "S": "8nAwdhzZfotqpLC9R"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Big Sister villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Laughing"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Laughing.png"
+            },
+            "internal_id": {
+                "N": "20"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Laughter"
+            },
+            "unique_entry_id": {
+                "S": "EBenMHMpwnkMgS6eg"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Snooty villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Love"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Love.png"
+            },
+            "internal_id": {
+                "N": "22"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Love"
+            },
+            "unique_entry_id": {
+                "S": "GvAsErCFuGAcMAeXM"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Big Sister villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Assent"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Assent.png"
+            },
+            "internal_id": {
+                "N": "127"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Confident"
+            },
+            "unique_entry_id": {
+                "S": "TGifHTbyLBh4f3gDQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Smug villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Shaki"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Shaki.png"
+            },
+            "internal_id": {
+                "N": "62"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Showmanship"
+            },
+            "unique_entry_id": {
+                "S": "Bj5iG7kc6tLND9bjn"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Jock villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Dance"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Dance.png"
+            },
+            "internal_id": {
+                "N": "60"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Flourish"
+            },
+            "unique_entry_id": {
+                "S": "5QDD3DcwdPhbGoJAf"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Lazy villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "SmugFace"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/SmugFace.png"
+            },
+            "internal_id": {
+                "N": "51"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Pride"
+            },
+            "unique_entry_id": {
+                "S": "xKoQpdJMtocNFRckm"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Jock villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Cheering"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Cheering.png"
+            },
+            "internal_id": {
+                "N": "49"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Encouraging"
+            },
+            "unique_entry_id": {
+                "S": "fomfML4NWdY8x6adv"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "All villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Clapping"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Clapping.png"
+            },
+            "internal_id": {
+                "N": "47"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Delight"
+            },
+            "unique_entry_id": {
+                "S": "F9DpGeqZzDeSTh2bq"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Big Sister villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Apologize"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Apologize.png"
+            },
+            "internal_id": {
+                "N": "126"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Apologetic"
+            },
+            "unique_entry_id": {
+                "S": "jBKsQYCAd7PtymQeB"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Cranky villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Pardon"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Pardon.png"
+            },
+            "internal_id": {
+                "N": "253"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Bewilderment"
+            },
+            "unique_entry_id": {
+                "S": "WRSSRZMtM6rXfXBrR"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Peppy villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "QuestionMark"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/QuestionMark.png"
+            },
+            "internal_id": {
+                "N": "41"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Curiosity"
+            },
+            "unique_entry_id": {
+                "S": "SskgipgnKzm5TsK7d"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "All villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Aha"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Aha.png"
+            },
+            "internal_id": {
+                "N": "34"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Surprise"
+            },
+            "unique_entry_id": {
+                "S": "7jmkZiSxrYT7MMm4P"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Snooty villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Shocked"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Shocked.png"
+            },
+            "internal_id": {
+                "N": "33"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Amazed"
+            },
+            "unique_entry_id": {
+                "S": "vosig4bbr4kPq57AT"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Cranky villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "IdeaBulb"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/IdeaBulb.png"
+            },
+            "internal_id": {
+                "N": "40"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Inspiration"
+            },
+            "unique_entry_id": {
+                "S": "8ux4ddfibJQR2EuWW"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Jock villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Surprised"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Surprised.png"
+            },
+            "internal_id": {
+                "N": "36"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Shocked"
+            },
+            "unique_entry_id": {
+                "S": "bn29da8SNdMYYyWAa"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Lazy villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Oops"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Oops.png"
+            },
+            "internal_id": {
+                "N": "59"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Mistaken"
+            },
+            "unique_entry_id": {
+                "S": "DPR7WWkmR36Bsf2LG"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Lazy villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Blushing"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Blushing.png"
+            },
+            "internal_id": {
+                "N": "44"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Bashfulness"
+            },
+            "unique_entry_id": {
+                "S": "wzvKbFrEJCseTohoz"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Lazy villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Hesitate"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Hesitate.png"
+            },
+            "internal_id": {
+                "N": "57"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Shyness"
+            },
+            "unique_entry_id": {
+                "S": "9H7jt7AGKbh6mW4y8"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Cranky villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "WrySmile"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/WrySmile.png"
+            },
+            "internal_id": {
+                "N": "54"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Sheepishness"
+            },
+            "unique_entry_id": {
+                "S": "5cRnCPDJRdRpPJF8D"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Smug villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Grin"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Grin.png"
+            },
+            "internal_id": {
+                "N": "53"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Smirking"
+            },
+            "unique_entry_id": {
+                "S": "KDAWT9zDKpufEWgaW"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Peppy villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Scheming"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Scheming.png"
+            },
+            "internal_id": {
+                "N": "46"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Mischief"
+            },
+            "unique_entry_id": {
+                "S": "E7it7yLfFaddFvEhQ"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Smug villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "OhGeez"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/OhGeez.png"
+            },
+            "internal_id": {
+                "N": "45"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Resignation"
+            },
+            "unique_entry_id": {
+                "S": "7YdF3ZMr95XP3FaoW"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Normal villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "AbsentMindedness"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AbsentMindedness.png"
+            },
+            "internal_id": {
+                "N": "61"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Daydreaming"
+            },
+            "unique_entry_id": {
+                "S": "JFrTBJCEaX5R4kABT"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Snooty villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Thinking"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Thinking.png"
+            },
+            "internal_id": {
+                "N": "29"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Thought"
+            },
+            "unique_entry_id": {
+                "S": "HEFCeCGtJ7Bkb5PXG"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Peppy villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Sleepy"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Sleepy.png"
+            },
+            "internal_id": {
+                "N": "43"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Sleepy"
+            },
+            "unique_entry_id": {
+                "S": "9e5BhxmqtMurNWqW4"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Smug villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Sleep"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Sleep.png"
+            },
+            "internal_id": {
+                "N": "63"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Dozing"
+            },
+            "unique_entry_id": {
+                "S": "2vvgAacGjthcFW5Qa"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Cranky villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Worried"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Worried.png"
+            },
+            "internal_id": {
+                "N": "27"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Worry"
+            },
+            "unique_entry_id": {
+                "S": "TygKeKxvotLEzWqvY"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Snooty villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Sighing"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Sighing.png"
+            },
+            "internal_id": {
+                "N": "28"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Sighing"
+            },
+            "unique_entry_id": {
+                "S": "ntjLqg82EQNsgnzYA"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Normal villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "SadSpiral"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/SadSpiral.png"
+            },
+            "internal_id": {
+                "N": "30"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Sadness"
+            },
+            "unique_entry_id": {
+                "S": "Wo8q6KhPtL2CYwat4"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Smug villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "BrokenHeart"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/BrokenHeart.png"
+            },
+            "internal_id": {
+                "N": "42"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Heartbreak"
+            },
+            "unique_entry_id": {
+                "S": "ex6gKZu6zsyd6MgDr"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Lazy villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Crying"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Crying.png"
+            },
+            "internal_id": {
+                "N": "32"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Sorrow"
+            },
+            "unique_entry_id": {
+                "S": "W8nngMS98uwpHHW4m"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Snooty villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Silent"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Silent.png"
+            },
+            "internal_id": {
+                "N": "119"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Intense"
+            },
+            "unique_entry_id": {
+                "S": "X2kzqTaPwtG6SGNT8"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Peppy villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Outraged"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Outraged.png"
+            },
+            "internal_id": {
+                "N": "25"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Aggravation"
+            },
+            "unique_entry_id": {
+                "S": "6suhKYAAhh5QMKt64"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Big Sister villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "ColdChill"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/ColdChill.png"
+            },
+            "internal_id": {
+                "N": "37"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Cold Chill"
+            },
+            "unique_entry_id": {
+                "S": "K62u2owKFDLmPCB3Q"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Jock villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Frantic"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Frantic.png"
+            },
+            "internal_id": {
+                "N": "31"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Distress"
+            },
+            "unique_entry_id": {
+                "S": "vsSjQBZXPeSK6uDTK"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Normal villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Shaking"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Shaking.png"
+            },
+            "internal_id": {
+                "N": "38"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Fearful"
+            },
+            "unique_entry_id": {
+                "S": "noKrWYCMSWcH4jwvi"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Jock villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "Sneezing"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/Sneezing.png"
+            },
+            "internal_id": {
+                "N": "48"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Sneezing"
+            },
+            "unique_entry_id": {
+                "S": "F6Dkk4PGtjDMCgry3"
+            },
+            "version_added": {
+                "S": "1.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Halloween"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Jack"
+                ]
+            },
+            "filename_image": {
+                "S": "AddScaring"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddScaring.png"
+            },
+            "internal_id": {
+                "N": "801"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Haunt"
+            },
+            "unique_entry_id": {
+                "S": "fA3nXJsXHNT67zyT2"
+            },
+            "version_added": {
+                "S": "1.5.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Halloween"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "All villagers"
+                ]
+            },
+            "filename_image": {
+                "S": "AddPrank"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddPrank.png"
+            },
+            "internal_id": {
+                "N": "805"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Scare"
+            },
+            "unique_entry_id": {
+                "S": "sBW2mWEs7FW8mN8e5"
+            },
+            "version_added": {
+                "S": "1.5.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Hip Reaction Collection"
+                ]
+            },
+            "filename_image": {
+                "S": "AddSitDown"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddSitDown.png"
+            },
+            "internal_id": {
+                "N": "808"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Sit Down"
+            },
+            "unique_entry_id": {
+                "S": "vZLdKXLdnjvN4J5Je"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Hip Reaction Collection"
+                ]
+            },
+            "filename_image": {
+                "S": "AddWaveHands"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddWaveHands.png"
+            },
+            "internal_id": {
+                "N": "809"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Wave Goodbye"
+            },
+            "unique_entry_id": {
+                "S": "dbiQgwwQZxAQw54ur"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Hip Reaction Collection"
+                ]
+            },
+            "filename_image": {
+                "S": "AddTakePictures"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddTakePictures.png"
+            },
+            "internal_id": {
+                "N": "815"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Take a Picture"
+            },
+            "unique_entry_id": {
+                "S": "77uFv5cZp43Rt3LaP"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Hip Reaction Collection"
+                ]
+            },
+            "filename_image": {
+                "S": "AddSmell"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddSmell.png"
+            },
+            "internal_id": {
+                "N": "814"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Sniff Sniff"
+            },
+            "unique_entry_id": {
+                "S": "M3JksnoqmWyo9otrd"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Hip Reaction Collection"
+                ]
+            },
+            "filename_image": {
+                "S": "AddGymnastics"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddGymnastics.png"
+            },
+            "internal_id": {
+                "N": "804"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Work Out"
+            },
+            "unique_entry_id": {
+                "S": "oXMGkQsnaXyB2WLKp"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Hip Reaction Collection"
+                ]
+            },
+            "filename_image": {
+                "S": "AddYoga"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddYoga.png"
+            },
+            "internal_id": {
+                "N": "802"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Yoga"
+            },
+            "unique_entry_id": {
+                "S": "yeh2FF6fzMn3BdAi6"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Hip Reaction Collection"
+                ]
+            },
+            "filename_image": {
+                "S": "AddHereYouGo"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddHereYouGo.png"
+            },
+            "internal_id": {
+                "N": "816"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Here You Go"
+            },
+            "unique_entry_id": {
+                "S": "7mskmgbcDnZMfaa8d"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Hip Reaction Collection"
+                ]
+            },
+            "filename_image": {
+                "S": "AddExcited"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddExcited.png"
+            },
+            "internal_id": {
+                "N": "813"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Excited"
+            },
+            "unique_entry_id": {
+                "S": "n7AxvQcyuPEtdD7uF"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Hip Reaction Collection"
+                ]
+            },
+            "filename_image": {
+                "S": "AddPraise"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddPraise.png"
+            },
+            "internal_id": {
+                "N": "817"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Ta-da"
+            },
+            "unique_entry_id": {
+                "S": "r5knh2R8vmx7J4pxR"
+            },
+            "version_added": {
+                "S": "1.6.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Festivale (days before)",
+                    "Festivale"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Viva Festivale Reaction Set"
+                ]
+            },
+            "filename_image": {
+                "S": "AddConfetti"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddConfetti.png"
+            },
+            "internal_id": {
+                "N": "848"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Confetti"
+            },
+            "unique_entry_id": {
+                "S": "ZQwAqpKEDkTHTQXEn"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Festivale (days before)",
+                    "Festivale"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Viva Festivale Reaction Set"
+                ]
+            },
+            "filename_image": {
+                "S": "AddViva"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddViva.png"
+            },
+            "internal_id": {
+                "N": "851"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Viva"
+            },
+            "unique_entry_id": {
+                "S": "awBmqTsqEP6vSyH3k"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Festivale (days before)",
+                    "Festivale"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Viva Festivale Reaction Set"
+                ]
+            },
+            "filename_image": {
+                "S": "AddEntice"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddEntice.png"
+            },
+            "internal_id": {
+                "N": "855"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Let's Go"
+            },
+            "unique_entry_id": {
+                "S": "mcdAptLF325uqyDKa"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Festivale (days before)",
+                    "Festivale"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "Viva Festivale Reaction Set"
+                ]
+            },
+            "filename_image": {
+                "S": "AddDance"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddDance.png"
+            },
+            "internal_id": {
+                "N": "856"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Feelin' It"
+            },
+            "unique_entry_id": {
+                "S": "r6wW7uebEBsLwP3XT"
+            },
+            "version_added": {
+                "S": "1.7.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
+            "filename_image": {
+                "S": "AddRadioGymnastics01"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics01.png"
+            },
+            "internal_id": {
+                "N": "993"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Posture Warm-Up"
+            },
+            "unique_entry_id": {
+                "S": "XG5nz2NLapRDsC2Ro"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
+            "filename_image": {
+                "S": "AddRadioGymnastics02"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics02.png"
+            },
+            "internal_id": {
+                "N": "994"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Arm Circles"
+            },
+            "unique_entry_id": {
+                "S": "j4wmMk6NhvHfuM6um"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
+            "filename_image": {
+                "S": "AddRadioGymnastics03"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics03.png"
+            },
+            "internal_id": {
+                "N": "995"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Side Bends"
+            },
+            "unique_entry_id": {
+                "S": "bqJis3YL4LQd6en4T"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
+            "filename_image": {
+                "S": "AddRadioGymnastics04"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics04.png"
+            },
+            "internal_id": {
+                "N": "996"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Body Twists"
+            },
+            "unique_entry_id": {
+                "S": "4gwdwpfJAWceXuEzb"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
+            "filename_image": {
+                "S": "AddRadioGymnastics05"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics05.png"
+            },
+            "internal_id": {
+                "N": "997"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Wide Arm Stretch"
+            },
+            "unique_entry_id": {
+                "S": "NbPWHvrWsEu2CrkgB"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
+            "filename_image": {
+                "S": "AddRadioGymnastics06"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics06.png"
+            },
+            "internal_id": {
+                "N": "998"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Upper-Body Circles"
+            },
+            "unique_entry_id": {
+                "S": "NdqKFNRcviZmKghHD"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "Group Stretching"
+                ]
+            },
+            "filename_image": {
+                "S": "AddRadioGymnastics07"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddRadioGymnastics07.png"
+            },
+            "internal_id": {
+                "N": "999"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Jump"
+            },
+            "unique_entry_id": {
+                "S": "5oMAeCNZuPPy7uzC5"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "AddGreetingBothHands"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddGreetingBothHands.png"
+            },
+            "internal_id": {
+                "N": "1114"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Double Wave"
+            },
+            "unique_entry_id": {
+                "S": "sQKDgwyWjmaszK8oY"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "AddStretch"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddStretch.png"
+            },
+            "internal_id": {
+                "N": "1100"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Stretch"
+            },
+            "unique_entry_id": {
+                "S": "yDKAgsFYCMBu5qKLq"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "AddRhythm"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddRhythm.png"
+            },
+            "internal_id": {
+                "N": "1097"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Jammin'"
+            },
+            "unique_entry_id": {
+                "S": "Yrnfag9xhZuiMQ9wm"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "AddListen"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddListen.png"
+            },
+            "internal_id": {
+                "N": "1103"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Listening Ears"
+            },
+            "unique_entry_id": {
+                "S": "9qKkdjDYeCuaNKEze"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "RequestWillingness"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/RequestWillingness.png"
+            },
+            "internal_id": {
+                "N": "879"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Say Cheese"
+            },
+            "unique_entry_id": {
+                "S": "ihrQY47HeybqMTdNv"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "AddRequestLook"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddRequestLook.png"
+            },
+            "internal_id": {
+                "N": "1099"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Behold"
+            },
+            "unique_entry_id": {
+                "S": "pY7Jd5Z6SHMWXhoqR"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "RequestOkay"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/RequestOkay.png"
+            },
+            "internal_id": {
+                "N": "917"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Eager"
+            },
+            "unique_entry_id": {
+                "S": "ws3T7rLnhiC9fYQPY"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "AddMusclePose"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddMusclePose.png"
+            },
+            "internal_id": {
+                "N": "1102"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Flex"
+            },
+            "unique_entry_id": {
+                "S": "BaTvWWq8ZPve8cLah"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "AddPoseCool"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddPoseCool.png"
+            },
+            "internal_id": {
+                "N": "806"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Work It"
+            },
+            "unique_entry_id": {
+                "S": "uYaFyx3fc7HZuvkuZ"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "AddPoseNaturel"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddPoseNaturel.png"
+            },
+            "internal_id": {
+                "N": "807"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Act Natural"
+            },
+            "unique_entry_id": {
+                "S": "MQuTaM6pZvLbX4HhA"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "NULL": true
+            },
+            "content_locations": {
+                "SS": [
+                    "New Reactions Notebook"
+                ]
+            },
+            "filename_image": {
+                "S": "AddHula"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddHula.png"
+            },
+            "internal_id": {
+                "N": "1098"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": false
+            },
+            "name": {
+                "S": "Hula"
+            },
+            "unique_entry_id": {
+                "S": "wsEqZFG2BZotT7ZsX"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesUpper"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesUpper.png"
+            },
+            "internal_id": {
+                "N": "1101"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Grooving Hop"
+            },
+            "unique_entry_id": {
+                "S": "t6rNxYbX75Jxf8fAx"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesRight"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesRight.png"
+            },
+            "internal_id": {
+                "N": "1105"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Groove Right"
+            },
+            "unique_entry_id": {
+                "S": "8idaYXi94dDnh9wid"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesLeft"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesLeft.png"
+            },
+            "internal_id": {
+                "N": "1106"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Groove Left"
+            },
+            "unique_entry_id": {
+                "S": "9mNyjT3P5QEdSPRMx"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesLower"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesLower.png"
+            },
+            "internal_id": {
+                "N": "1107"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Soak It In"
+            },
+            "unique_entry_id": {
+                "S": "Y3mrDfRHZZeTRCDfc"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesPosing05"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing05.png"
+            },
+            "internal_id": {
+                "N": "1110"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Side-to-Side"
+            },
+            "unique_entry_id": {
+                "S": "hmuHXYdaB6ivvDRGr"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesPosing04"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing04.png"
+            },
+            "internal_id": {
+                "N": "1111"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Island Stomp"
+            },
+            "unique_entry_id": {
+                "S": "f62feo4wDFm4ayY4X"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesPosing01"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing01.png"
+            },
+            "internal_id": {
+                "N": "1109"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Airplane"
+            },
+            "unique_entry_id": {
+                "S": "ytjJ7ZCBihTRtytYf"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesPosing02"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing02.png"
+            },
+            "internal_id": {
+                "N": "1108"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Twisty Dance"
+            },
+            "unique_entry_id": {
+                "S": "JiDjG2QEEAt2zxWiC"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesPosing00"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing00.png"
+            },
+            "internal_id": {
+                "N": "1104"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Shimmy"
+            },
+            "unique_entry_id": {
+                "S": "Dz2gW8yx4yA8Xcjfj"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesPosing06"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing06.png"
+            },
+            "internal_id": {
+                "N": "1113"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Turnip Patch"
+            },
+            "unique_entry_id": {
+                "S": "qsYo6aQckdorvMtEd"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    },
+    {
+        "Item": {
+            "content_events": {
+                "SS": [
+                    "Happy Home Paradise"
+                ]
+            },
+            "content_locations": {
+                "SS": [
+                    "DJ KK concert"
+                ]
+            },
+            "filename_image": {
+                "S": "AddKKFesPosing03"
+            },
+            "image_url": {
+                "S": "https://acnhcdn.com/latest/ManpuIcon/AddKKFesPosing03.png"
+            },
+            "internal_id": {
+                "N": "1112"
+            },
+            "internal_label": {
+                "NULL": true
+            },
+            "internal_name": {
+                "NULL": true
+            },
+            "is_seasonal": {
+                "BOOL": true
+            },
+            "name": {
+                "S": "Arm-Swing Dance"
+            },
+            "unique_entry_id": {
+                "S": "aPnKonrv3pkEdqtGy"
+            },
+            "version_added": {
+                "S": "2.0.0"
+            }
+        },
+        "TableName": "reaction"
+    }
+]
